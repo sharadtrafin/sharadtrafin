@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #include <stdio.h>
 
 int main() {
-    // Declare variables test-ind-api?fyinformation?cc to store two numbers and the result
+    // Declare variables 111111111111 to store two numbers and the result
     double num1, num2, result;
     char operator;
 
